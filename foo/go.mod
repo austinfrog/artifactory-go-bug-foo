@@ -1,4 +1,4 @@
-module github.com/austinfrog/artifactory-go-bug/foo/v2
+module github.com/austinfrog/artifactory-go-bug-foo/foo/v2
 
 go 1.21
 
